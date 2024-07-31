@@ -7,3 +7,8 @@
 sentiment of the review.
 
 ## Steps
+
+
+
+## source
+1. IMDb: http://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz
