@@ -12,3 +12,4 @@ sentiment of the review.
 
 ## source
 1. IMDb: http://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz
+2. Ecommerce-FAQ-Chatbot-Dataset: https://www.kaggle.com/datasets/saadmakhdoom/ecommerce-faq-chatbot-dataset/data
